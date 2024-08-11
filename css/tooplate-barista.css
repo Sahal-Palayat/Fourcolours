@@ -354,14 +354,15 @@ strong {
   font-weight: var(--font-weight-bold);
   display: block;
   color: var(--white-color);
+  margin-bottom: 0;
 }
 
 
 
 .navbar-brand-image {
-  width: 48px;
+  width: 88px;
   height: auto;
-  margin-right: 10px;
+  margin-right: 0px;
 }
 
 .navbar .custom-btn {
@@ -558,6 +559,7 @@ strong {
 
 .small-text {
   color: var(--secondary-color);
+  font-weight: 500;
 }
 
 .hero-section .custom-border-btn {
@@ -1082,7 +1084,8 @@ strong {
 
   .navbar-brand,
   .navbar-brand:hover {
-    font-size: var(--h5-font-size);
+    font-size: 19px;
+    margin-bottom:0;
   }
 
   .navbar-expand-lg .navbar-nav {
@@ -1111,7 +1114,6 @@ strong {
 
   .site-footer {
     padding-top: 50px;
-    margin-bottom: 350px;
   }
 }
 
@@ -1194,6 +1196,16 @@ strong {
   .timeline-container-left::before,
   .timeline-container-right::before {
     top: 13px;
+  }
+
+  .abt-us-mobile {
+    display: flex;
+    justify-content: center;
+  }
+
+  .about-us-mobile {
+    font-size: 16px;
+    text-align: center;
   }
 }
 

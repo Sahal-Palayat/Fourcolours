@@ -11,7 +11,7 @@
     $(function() {
       $('.hero-slides').vegas({
           slides: [
-              { src: 'https://png.pngtree.com/background/20231017/original/pngtree-essential-tech-a-collection-of-computers-devices-and-office-equipment-including-picture-image_5591259.jpg' },
+              { src: 'images/bgimg.jpg' },
               { src: 'https://img.freepik.com/free-photo/workplace-business-modern-male-accessories-laptop-black-background_155003-3944.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1723248000&semt=ais_hybrid' },
               { src: 'https://static.vecteezy.com/system/resources/previews/032/513/258/non_2x/top-view-ofgrapher-workspace-with-laptop-camera-and-accessories-on-black-background-flat-lay-ofgrapher-s-desk-with-laptop-camera-and-accessories-ai-generated-free-photo.jpg' }
           ],

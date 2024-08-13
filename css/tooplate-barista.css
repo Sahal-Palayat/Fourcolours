@@ -759,7 +759,25 @@ strong {
 }
 
 .reviews-block-image-wrap {
-  background-image: url('https://t4.ftcdn.net/jpg/06/57/59/17/360_F_657591708_1KC26Erazxm9sgNADjviZeAZHtrhlM7b.jpg');
+  background-image: url('https://www.allgsmtips.com/wp-content/uploads/2019/03/mobile-repairing-authorized-service-centres-vs-3rd-party-shops-990x500.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+  height: 200px; 
+}
+
+.reviews-block-image-wrap1 {
+  background-image: url('https://www.coolmuster.com/uploads/file/202207/icloud-unlock-service.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+  height: 200px; 
+}
+
+.reviews-block-image-wrap2 {
+  background-image: url('https://media.newstrack.in/uploads/technology-news/technology-news/Dec/04/big_thumb/gh_656d7fc885bf6.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1111,7 +1129,7 @@ strong {
 
   .site-footer {
     padding-top: 50px;
-    margin-bottom: 350px;
+    
   }
 }
 
